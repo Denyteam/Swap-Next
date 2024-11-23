@@ -37,16 +37,14 @@ To run Nextswap locally, follow these simple steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-dapp-repo.git
-   cd your-dapp-repo
 
 2. **Install Dependencies:**
     ```bash
-    yarn install
+    npm install
 
 3. **Run the Application:**
     ```bash
-    yarn dev
+    npm run dev
 
 4. **Access Locally:**
 Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to explore Nextswap locally.
